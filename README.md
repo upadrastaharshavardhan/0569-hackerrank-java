@@ -170,4 +170,4 @@ Quick Links ⚡ :
 | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions) | [Solution](https://github.com/upadrastaharshavardhan/0569-hackerrank-java/blob/master/src/JavaLambdaExpression.java) | Medium |
 | [Java MD5](https://www.hackerrank.com/challenges/java-md5) | [Solution](https://github.com/upadrastaharshavardhan/0569-hackerrank-java/blob/master/src/MD5.java) | Medium |
 | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256) | [Solution](https://github.com/upadrastaharshavardhan/0569-hackerrank-java/blob/master/src/JavaSHA_256.java) | Medium|
-========================================================================upadrastaharshavardhan=
+===upadrastaharshavardhan=
